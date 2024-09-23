@@ -1,0 +1,6 @@
+#Ignorar as pastas
+volume/
+.terraform/
+.terraform.lock.hcl
+output.txt
+.terraform.tfstate.lock.info
